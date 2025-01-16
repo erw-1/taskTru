@@ -7,7 +7,7 @@
 - **TopMost**: Keep your selected windows on top of all other windows.
 - **Opacity**: Quickly set transparency from 0% to 100%.
   
-Everything above is toggleable and can be set for several windows at a time, the window list can be refreshed.
+Everything above is toggleable and can be set for several windows at a time, the task list can be refreshed.
 
 ## Getting Started
 
