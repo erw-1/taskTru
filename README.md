@@ -1,6 +1,6 @@
 # taskTru
 
-**taskTru** is a WinForms utility that lets you make open windows click-thr.
+**taskTru** is a WinForms utility that lets you make open windows click-through, topmost and transparent.
 
 ![Screenshot of taskTrough UI](https://raw.githubusercontent.com/erw-1/taskTru/main/screenshot.png)
 
