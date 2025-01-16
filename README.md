@@ -25,5 +25,5 @@ Or use one of the precompiled executables.
 ## Contributing
 Contributions are welcome! Feel free to:
 
-[Open an issue](https://github.com/erw-1/taskTru/issues) to report a bug or request a feature.
-Fork and submit a Pull Request for improvements or new features.
+- [Open an issue](https://github.com/erw-1/taskTru/issues) to report a bug or request a feature.
+- Fork and submit a Pull Request for improvements or new features.
