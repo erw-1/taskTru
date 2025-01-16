@@ -2,8 +2,6 @@
 
 **taskTru** is a WinForms utility that lets you make open windows click-through, topmost and transparent for Windows.
 
-![Screenshot of taskTrough UI](https://raw.githubusercontent.com/erw-1/taskTru/main/screenshot.png)
-
 ## Features
 - **Click-Through**: Pass mouse clicks through the specified window and disables its interactions.
 - **TopMost**: Keep your selected windows on top of all other windows.
