@@ -1,6 +1,6 @@
 # taskTru
 
-**taskTru** is a WinForms utility that lets you make open windows click-through, topmost and transparent.
+**taskTru** is a WinForms utility that lets you make open windows click-through, topmost and transparent for Windows.
 
 ![Screenshot of taskTrough UI](https://raw.githubusercontent.com/erw-1/taskTru/main/screenshot.png)
 
@@ -11,8 +11,6 @@
   
 Everything above is toggleable and can be set for several windows at a time, the window list can be refreshed.
 
-
-
 ## Getting Started
 
 1. **Clone** this repo:  
@@ -22,6 +20,7 @@ Everything above is toggleable and can be set for several windows at a time, the
 2. Open the taskTru.sln in Visual Studio.
 3. Build (Ctrl+Shift+B) and run (F5).
 
+Or use one of the precompiled executables.
 
 ## Contributing
 Contributions are welcome! Feel free to:
