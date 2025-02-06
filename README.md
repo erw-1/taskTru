@@ -17,7 +17,7 @@ Everything above is toggleable and can be set for several windows at a time, the
    ```bash
    git clone https://github.com/erw-1/taskTru.git
    ```
-2. Open the taskTru.sln in Visual Studio.
+2. Open taskTru.sln in Visual Studio.
 3. Build (Ctrl+Shift+B) and run (F5).
 
 Or use one of the [precompiled executables](https://github.com/erw-1/taskTru/releases).
