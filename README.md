@@ -20,7 +20,7 @@ Everything above is toggleable and can be set for several windows at a time, the
 2. Open taskTru.sln in Visual Studio.
 3. Build (Ctrl+Shift+B) and run (F5).
 
-Or use one of the [precompiled executables](https://github.com/erw-1/taskTru/releases).
+Or use one of the <200 KB [precompiled executables](https://github.com/erw-1/taskTru/releases). Portable version included! (no .NET installation required)
 
 ## Contributing
 Contributions are welcome! Feel free to:
