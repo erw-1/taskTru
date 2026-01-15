@@ -35,5 +35,6 @@ Contributions are welcome! Feel free to:
 
 ## They talk about it!
 - Softpedia Article • 🇬🇧 • [Link](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/taskTru.shtml)
+- User recommendation on Reddit • 🇬🇧 • [Link](https://www.reddit.com/r/firefox/comments/1q4bepu/anyway_to_make_pip_click_through/)
 - PCAstuces Article • 🇫🇷 • [Link](https://www.pcastuces.com/logitheque/tasktru.htm)
 
