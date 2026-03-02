@@ -2,7 +2,7 @@
 
 **taskTru** is a Windows utility that lets you make task windows click-through, topmost and transparent.
 
-Perfect for PIP (Picture In Picture) apps & anything you want to overlay over your apps!
+Perfect for PIP (Picture In Picture) videos & anything you want to overlay over your apps!
 
 ## Features
 - **Click-Through**: pass mouse clicks through the specified window and disables its interactions.
