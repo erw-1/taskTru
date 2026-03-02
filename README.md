@@ -31,6 +31,7 @@ Contributions are welcome! Feel free to:
   - removal of the "Microsoft Text Input Application" task that is always showing in the list on some systems.
   - Save the task state (toggled tools like topmost, clicktrough) after a refresh or a timeout
   - Reduce the portable executable size
+  - add a way to minimize the app to system tray
   - French language port
 
 ## They talk about it!
