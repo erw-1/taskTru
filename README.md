@@ -2,7 +2,7 @@
 
 **taskTru** is a Windows utility that lets you make task windows click-through, topmost and transparent.
 
-Perfect for PIP (Picture In Picture) videos & anything you want to overlay over your apps!
+Perfect for PIP (Picture In Picture) videos or anything you want to overlay over your apps!
 
 ## Features
 - **Click-Through**: pass mouse clicks through the specified window and disables its interactions.
@@ -27,12 +27,14 @@ Contributions are welcome! Feel free to:
 
 - [Open an issue](https://github.com/erw-1/taskTru/issues) to report a bug or request a feature.
 - Fork and submit a Pull Request for improvements or new features.
-- What I will be working on next:
+- What I will be working for the 2.0:
   - removal of the "Microsoft Text Input Application" task that is always showing in the list on some systems.
   - Save the task state (toggled tools like topmost, clicktrough) after a refresh or a timeout
   - Reduce the portable executable size
   - add a way to minimize the app to system tray
-  - French language port
+  - add window cropping
+  - add auto video detection
+  - add logo / icon
 
 ## They talk about it!
 - Softpedia Article • 🇬🇧 • [Link](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/taskTru.shtml)
