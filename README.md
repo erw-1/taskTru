@@ -1,5 +1,7 @@
 # taskTru
 
+## v2 is coming soon!!
+
 **taskTru** is a Windows utility that lets you make task windows click-through, topmost and transparent.
 
 Perfect for PIP (Picture In Picture) videos or anything you want to overlay over your apps!
