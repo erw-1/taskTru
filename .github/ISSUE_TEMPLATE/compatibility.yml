@@ -1,0 +1,61 @@
+name: App compatibility issue
+description: An app behaves differently under Crop, Interact, or Video detection.
+title: "[compat] <app> — <what breaks>"
+labels: ["compatibility"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve app compatibility! The more of the below you
+        fill in, the faster it can be reproduced and fixed.
+  - type: input
+    id: app
+    attributes:
+      label: App name and version
+      placeholder: e.g. Discord 1.0.9244, Brave 1.65, Paint.NET 5.1
+    validations:
+      required: true
+  - type: checkboxes
+    id: features
+    attributes:
+      label: Which feature is affected?
+      options:
+        - label: Crop
+        - label: Interact mode
+        - label: Video detection / auto video crop
+        - label: Click-through / always on top / opacity
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+      description: A screenshot or short GIF helps a lot for visual glitches — drag it in here.
+    validations:
+      required: true
+  - type: input
+    id: monitors
+    attributes:
+      label: Monitor setup
+      description: Resolution and scaling % for each monitor.
+      placeholder: e.g. 2560x1440 @ 100% + 1440x2560 @ 225%
+  - type: dropdown
+    id: state
+    attributes:
+      label: App window state when it happened
+      options:
+        - Windowed
+        - Maximized
+        - Fullscreen
+        - Not sure
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows version
+      options:
+        - Windows 11
+        - Windows 10
+        - Other
+  - type: input
+    id: version
+    attributes:
+      label: taskTru version
+      placeholder: e.g. 2.0
