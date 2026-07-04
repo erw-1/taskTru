@@ -1,6 +1,6 @@
 name: App compatibility issue
 description: An app behaves differently under Crop, Interact, or Video detection.
-title: "[compat] <app> — <what breaks>"
+title: "[compat] <app> - <what breaks>"
 labels: ["compatibility"]
 body:
   - type: markdown
@@ -28,7 +28,7 @@ body:
     id: what
     attributes:
       label: What happened, and what did you expect?
-      description: A screenshot or short GIF helps a lot for visual glitches — drag it in here.
+      description: A screenshot, a short GIF or a video helps a lot for visual glitches, please drag it in here.
     validations:
       required: true
   - type: input
