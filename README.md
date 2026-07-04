@@ -18,6 +18,8 @@ Perfect for videos, images, code or anything you want to overlay over your apps.
 
 > Everything above is stackable and can be set for several windows at a time.
 
+I'm working on a demo video!!
+
 ### Also new in 2.0
 > [!TIP]
 > System tray and tray actions, user settings, automatic refresh, persistent state, global shortcuts,  
