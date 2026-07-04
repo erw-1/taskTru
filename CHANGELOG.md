@@ -104,3 +104,4 @@ Initial release.
 - Dark-themed WinForms UI on .NET 8, shipped as x86/x64 portable executables + self-contained.
 
 [1.0.0]: https://github.com/erw-1/taskTru/releases/tag/1.0.0
+[2.0.0]: https://github.com/erw-1/taskTru/releases/tag/2.0.0
