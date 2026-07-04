@@ -1,0 +1,8 @@
+artifacts/
+dist/*
+.vs/
+*.log
+*.suo
+*.user
+*.userosscache
+Thumbs.db

@@ -1,0 +1,12 @@
+* text=auto
+
+*.cs text eol=lf
+*.csproj text eol=lf
+*.props text eol=lf
+*.md text eol=lf
+*.ps1 text eol=lf
+*.pubxml text eol=lf
+*.svg text eol=lf
+*.sln text eol=lf
+*.ico binary
+*.exe binary

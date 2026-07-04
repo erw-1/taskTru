@@ -1,0 +1,15 @@
+root = true
+
+[*.{cs,csproj}]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+indent_style = space
+indent_size = 4
+
+[*.cs]
+# The project uses one compact namespace while folders express ownership.
+dotnet_diagnostic.IDE0130.severity = none
+
+# DllImport keeps the small Win32 boundary easy to audit in one file.
+dotnet_diagnostic.SYSLIB1054.severity = none
