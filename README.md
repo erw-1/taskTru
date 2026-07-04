@@ -55,10 +55,10 @@ for your system's version if you don't have it installed)
 - User recommendation on Reddit • 🇬🇧 • [Link](https://www.reddit.com/r/firefox/comments/1q4bepu/anyway_to_make_pip_click_through/) • About 1.0 
 - PCAstuces Article • 🇫🇷 • [Link](https://www.pcastuces.com/logitheque/tasktru.htm) • About 1.0 
 
-## Dev stuff
+## Support and dev stuff
 
 > [!WARNING]
-> A few apps behave differently under `Crop`, `Interact`, or `Video detection` (Windows exposes every app a little differently).  
+> A few apps behave differently under `Crop`, `Interact`, or `Video detection` (Windows exposes every app a little differently).
 > Most I tested work great: if one misbehaves, please [open a compatibility issue](https://github.com/erw-1/taskTru/issues/new?labels=compatibility&template=compatibility.yml). What to expect, and what to include, is below.
 
 <details>
