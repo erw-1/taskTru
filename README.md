@@ -10,16 +10,16 @@
 **taskTru** is a Windows utility that lets you make tasks click-through, topmost, transparent and cropped.  
 Perfect for videos, images, code or anything you want to overlay over your apps. [Download the 2.0 here!](https://github.com/erw-1/taskTru/releases/latest)
 
-## Features
+
+
+## Core features
 - **`Click-through`** - passes mouse input through a selected window
 - **`Always on top`** - keeps selected windows above normal windows
 - **`Opacity slider`** - adjusts window transparency
-- **`Crop`** $^{\color{lightgreen}{\textsf{New!}}}$ - draw a feature-rich, movable, resizable PiP from any window
+- **`Crop`** $^{\color{lightgreen}{\textsf{New!}}}$ - draw a feature-rich, movable, resizable PiP from any window, with auto video detection
 
-> Everything above is stackable and can be set for several windows at a time.
-
-I'm working on a demo video!!
-
+> Everything above is stackable and can be set for several windows at a time. (**I'm working on a demo video!!**)
+> 
 ### Also new in 2.0
 > [!TIP]
 > System tray and tray actions, user settings, automatic refresh, persistent state, global shortcuts,  
