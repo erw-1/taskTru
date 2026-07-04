@@ -3,7 +3,7 @@
 Notable changes to taskTru. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
-## [2.0.0] - Unreleased
+## [2.0.0] - 2025-07-05
 
 taskTru 2.0 is a full rewrite.  
 v1 was a single panel that toggled three window styles that needed external PiP browser extensions to be used for video content for instance.
@@ -92,7 +92,7 @@ you desire using borders. Several windows can be cropped at once.
 - Window changes are no longer one-way: 1.0 could toggle click-through,
   topmost, and opacity but never restored a window's original state; 2.0
   reverses everything it touches, even on exit.
-- Self-contained executable is now 50% smaller, packed less unused junk.
+- Self-contained executable are now 75% smaller, packed less unused junk.
 
 ## [1.0.0] - 2025-01-16
 
