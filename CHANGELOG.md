@@ -54,7 +54,7 @@ you desire using borders. Several windows can be cropped at once.
 
 - **System tray:** taskTru can start minimized, minimize to tray on close, and exposes per-window actions (crop, opacity, click-through, lock on top, reset) from the tray menu without opening the main window.  
 
-  The tray icon displays a blue circle when a window is affected by taskTru, it displays the number of affected windows in the tray menu, and marks them in the list.
+  The tray icon displays a blue circle when a window is affected by taskTru, it displays the number of affected windows in the tray menu, and marks them in the list. Thanks @DaddyJake27 for the idea https://github.com/erw-1/taskTru/issues/1.
 
 - **Favorites and ignored tasks:** Favorites are pinned to the top of the list and ignored executables are hidden (they can be temporarily shown by using a reveal button or managed from settings). Both separate systems are off by default and can be enabled in settings.
 
