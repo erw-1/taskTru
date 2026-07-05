@@ -2,7 +2,8 @@
  
 
 <p align="center">
-  <img src="assets/tasktru_title.svg" width="440" alt="taskTru logo">
+  <img src="assets/tasktru_title.svg" width="440" alt="taskTru logo"><br>
+  <a href=https://github.com/erw-1/taskTru/releases/latest><img src="https://img.shields.io/github/downloads/erw-1/tasktru/total.svg"></a>
 </p>
 
 # taskTru 2.0
