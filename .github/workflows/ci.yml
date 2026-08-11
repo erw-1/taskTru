@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build and quality checks
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Setup .NET 10
+        uses: actions/setup-dotnet@a98b56852c35b8e3190ac28c8c2271da59106c68 # v6.0.0
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Restore
+        run: dotnet restore src/taskTru.csproj
+
+      - name: Check formatting
+        run: dotnet format src/taskTru.csproj --verify-no-changes --no-restore
+
+      - name: Build
+        run: dotnet build src/taskTru.csproj -c Release --no-restore -warnaserror -p:ContinuousIntegrationBuild=true
+
+      - name: Verify release builds
+        shell: pwsh
+        run: ./Build.ps1
