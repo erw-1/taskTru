@@ -1,4 +1,4 @@
-﻿using static taskTru.NativeMethods;
+using static taskTru.NativeMethods;
 
 namespace taskTru;
 
