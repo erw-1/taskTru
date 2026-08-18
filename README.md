@@ -1,8 +1,9 @@
-
- 
-
 <p align="center">
-  <img src="assets/tasktru_title.svg" width="440" alt="taskTru logo"><br>
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tasktru_title_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/tasktru_title_light.svg">
+    <img src="assets/tasktru_title_dark.svg" width="440" alt="taskTru logo"><br>
+  </picture><br>
   <a href=https://github.com/erw-1/taskTru/releases/latest><img src="https://img.shields.io/github/downloads/erw-1/tasktru/total.svg"></a>
 </p>
 
